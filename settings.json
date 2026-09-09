@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "JAAAAAAMUU",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Play_Donutsmp.aternos.me",
+    "port": 20291,
     "version": "",
     "try-creative": false
   },
